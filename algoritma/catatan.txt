@@ -1,0 +1,40 @@
+variabel?
+sebuah wadah yang memiliki nama dan digunakan untuk menyimpan sebuah nilai
+ibarat sebuah gelas yang akan diisi air 
+untuk membuat sebuah variable ada 3 tahap
+wadah = declaration
+nama = identifier
+nilai = asignment
+
+
+declaration 
+1. var 2. const
+
+perbedaan var dan const ?
+1. var - nilai dinamis (nilai bisa berubah rubah)
+2. const - nilai statis (nilai tetap)
+
+untuk di ES6 var dirubah menjadi let 
+
+
+identifier 
+1. tidak boleh menggunakan spasi
+2. tidak boleh menggunakan angka diawal
+3. idak boleh menggunakan keyword js
+
+asignment 
+- tahap pengisian nilai kedalam variable
+
+
+//dialog
+
+-> ada 3 macam yaitu alert , prompt , confirm
+disini secara sederhana dapat diartikan sebagai windows kecil yang digunakan sebagai sarana dialog antara user engan halaman web
+1. alert
+alert(pesan);
+alert('anda berhasil login')
+
+2.confirm
+confirm(pesan);
+confirm('anda yakin akan logout dari website ini?');
+

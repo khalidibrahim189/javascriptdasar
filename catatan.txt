@@ -1,0 +1,36 @@
+1. angka
+
+nilai tipe data
+
+1.angka tanpa desimal = 10,100,125
+akurat sampai 15 digit
+
+2.angka desimal = 3.14 , 0.5, 100,00
+
+operator
+1. penugasan
+2.aritmatika
+3.perbandingan
+4.logika
+5.string
+== ini adalah sebuah binary
+
+6.kondisional
+7.typeof
+
+== ini adalah operator ternary
+
+binary membutuhkan 2 operand
+
+operand1 operator operand2
+
+unary membutuhkan 1 operand
+operator operand
+atau 
+operand operator
+
+
+ternary adalah yang membutuhkan sebuah 3 operand
+
+untuk pembahasan pertama yaitu operator aritmatika 
++ - / * / %(sisa bagi atau modulus)

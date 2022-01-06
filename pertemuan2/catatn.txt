@@ -1,0 +1,54 @@
+materi tentang output
+output adalah sebuah program digunakan untuk memperlihatkan hasil akhir
+outpu biasanya ditampilkan dalam bentuk fungsi print()
+
+ada 4 cara menampilkan sebuah output pada javascript :
+
+1. fungsi console.log();
+2. fungsi dengan alert();
+3.fungsi dengan document.write();
+4. fungsi dengan menggunakan inner html
+
+untuk perbedaan dari tersebut bagaimana ya? mari kita bahas 
+
+1. Fungsi dengan console.log()
+= fungsi untuk menampilkan sebuah teks keconsole javascript 
+
+
+2. fungsi dengan alert
+= untuk menampilkan jendela dialog, fungsi sebenernya berada pada objek window
+window.alert('selamat datang');
+
+3. fungsi dengan document.write()
+= untuk menuliskan / mencetak sebuah dokumen kedalam html dalam javascript
+
+4. fungsi dengan innerHTML
+= adalah sebuah atribut dalam objek elemen html yang berisi sebuah string html.
+dengan innerHTML kita dapat menampilkan output elemen yang lebih spesifik
+
+2. materi dengan variable dan tipe data
+
+variable adalah sebuah nama yang mewakili nilai , yang bisa berisi dengan string, number , objek , array dan sebagiannya 
+kita bisa ibaratkan sebuah variable seperti menyimpan sesuatu
+
+tipe data adalah jenis data yang bisa kita simpan dalam sebuah variable
+ada beberapa tipe data dalam program
+string
+integer atau number (bilangan bulat)
+float / bilangan pecahan
+boolean
+object
+
+
+typeof = kata kunci untuk memberitahu untuk variable apabila bentuk string, angka , boolean
+
+aturan penulisan dalam javascript 
+//code salah 
+var 123nama = 'khalid ibrahim';
+ini sangat fatal 
+
+//code bener
+var nama1 = 'khalid ibrahim';
+jadi disini untuk penggunaan penulisan yang bener adalah angka harus dibelakang dan tidak boleh didepan, 
+
+penamaan dengan variable juga boleh dengan underscore 
